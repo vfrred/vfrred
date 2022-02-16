@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @vfrred
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+vfrred/vfrred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->I'm interressed in can Bus drived by Arduino nano and by Radio frequence remote commands
+I'm currently learning to get my own home domotic with my own application running on arduino for security reasons.
+I'm lookink to collaborate on all arduino's realisation to solve problems concerning old electronics with no more spare parts available .
+Save the planet for less money !Too much material goes to garbage but are still reperable if informations are accessible.
